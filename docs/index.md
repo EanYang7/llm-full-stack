@@ -1,5 +1,3 @@
-> 本项目在[Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)上进行完善
-
 将机器学习与软件工程相结合，设计、开发develop、部署deploy和迭代iterate生产级ML应用程序。
 
 ## 概述
